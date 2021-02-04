@@ -1,4 +1,6 @@
 Hello World!!!
 
-change: to check modification in tracked file.
-change: to fix bug1
+change1: to check modification in tracked file.
+change2: to fix bug1
+
+change3: to fix bug2
