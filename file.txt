@@ -11,4 +11,6 @@ change2: to fix bug1.
 change1.1: ->to check modification in tracked file.
 change:-> to fix bug
 
+change- to check STash
+
 
