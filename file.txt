@@ -14,5 +14,6 @@ change:-> to fix bug
 change- to check STash
 
 
-change for github
-change in remote
+change for github.
+change in remote .
+this is change for bug3 on remote master to check rebase
